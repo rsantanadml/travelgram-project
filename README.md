@@ -40,7 +40,7 @@ git clone https://github.com/rsantanadml/travelgram-project.git
 cd travelgram-project
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 travelgram-project/
 ├── assets/
@@ -50,7 +50,7 @@ travelgram-project/
 ├── styles.css       # Main stylesheet
 └── README.md        # Project documentation
 
-📚 What I Learned
+##📚 What I Learned
 
 Semantic HTML structure
 
@@ -62,7 +62,7 @@ Deploying static websites on GitHub Pages
 
 Using SVGs in projects
 
-🔧 Future Improvements
+##🔧 Future Improvements
 
 Full mobile responsiveness
 
@@ -74,7 +74,7 @@ JavaScript interactivity
 
 Image optimization
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Rafael Santana
 GitHub: https://github.com/rsantanadml
